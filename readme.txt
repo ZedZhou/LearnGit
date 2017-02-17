@@ -5,4 +5,4 @@ Git is easy
 
 这是最后决定合并的修改
 
-dev分支no ff
+dev分支no ff,已成功修复bug
